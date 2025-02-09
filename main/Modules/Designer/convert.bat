@@ -1,0 +1,1 @@
+pyside6-uic debug_widget.ui -o debug_widget_layout.py
