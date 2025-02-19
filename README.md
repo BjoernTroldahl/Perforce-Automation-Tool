@@ -19,6 +19,8 @@ An .exe-file is also included for running the tool outside of an IDE environment
 This project was made possible because of Viacheslav Makhynko and the knowledge-sharing from his Udemy course about Python automation in Perforce. I built the tool by following his course and, as of the date of writing this .README file, updated it to work with PySide6, the latest stable version of Python (3.13.1). 
 Furtheremore, I've also enabled the Perforce tool to work with the latest version of Substance Painter (10.1.2), so that it can be used in tandem with the Substance Painter Custom Exporter Tool in my other repository.
 
+https://github.com/user-attachments/assets/3ad0f9ad-acf1-45ff-abe0-50bffc687677
+
 ## How to install and use:
 
 1. Download this GitHub repository as a ZIP-file under the Code tab and unzip it into a folder.
