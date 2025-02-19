@@ -1,6 +1,6 @@
 # Perforce-Automation-Tool
 
-<img width="1050" alt="P4V-tool" src="https://github.com/user-attachments/assets/0b2111c1-753b-43db-b390-6d3249303a0c" />
+<img width="1050" alt="P4V-tool" src="https://github.com/user-attachments/assets/7ac4f951-2b69-4623-bbb7-a2d6e03c237e" />
 
 Scripts for a custom tool that automates common version control tasks in Perforce P4V. 
 
