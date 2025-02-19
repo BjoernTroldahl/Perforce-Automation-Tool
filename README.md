@@ -1,9 +1,8 @@
 # Perforce-Automation-Tool
-
-<img width="1050" alt="P4V-tool" src="https://github.com/user-attachments/assets/7ac4f951-2b69-4623-bbb7-a2d6e03c237e" />
-
 Scripts for a custom tool that automates common version control tasks in P4V and Helix Core by Perforce. 
 Ideal for teams with no prior experience using Perforce as part of their pipeline, since the tool greatly simplifies the workflow of creating new changelists, checking out and submitting files etc.
+
+<img width="1050" alt="P4V-tool" src="https://github.com/user-attachments/assets/7ac4f951-2b69-4623-bbb7-a2d6e03c237e" />
 
 <ins>*Features supported by the tool includes:*</ins>
 - Connecting and disconnecting from the Perforce server
