@@ -23,15 +23,9 @@ https://github.com/user-attachments/assets/3ad0f9ad-acf1-45ff-abe0-50bffc687677
 
 ## How to install and use:
 
-1. Download this GitHub repository as a ZIP-file under the Code tab and unzip it into a folder.
-2. Navigate to the Python folder of your Substance Painter installation. By default it is: *C:\Users\YOUR_USER_NAME\Documents\Adobe\Adobe Substance 3D Painter\python*
-3. Copy and paste the *.vscode, modules, plugins* and *startup* folders here, from your unzipped folder.
-4. Open Substance Painter.
-5. You should now be able to access the Custom Exporter tool. Make sure that *Python -> custom_exporter* and *Window -> Views -> Custom Exporter* are ENABLED from the top left menu options.
-6. The Custom Exporter tool should now appear as a widget window in the middle of your screen, that you can dock anywhere you want inside the Substance Painter editor. It behaves like any other widget windows.
-7. You can now open any Substance Painter project and utilize the Custom Exporter for streamlining texture exports. Click on the tool's blue help icon to get started, all information on how to use it is written there.
-8. OPTIONAL: For dev work on the tool, you need to open the Python modules in Visual Studio Code (or another IDE of choice with Python support, but VS Code is what I used).
-9. OPTIONAL: Then add  *"python.analysis.extraPaths": ["C:/Program Files/Adobe/Adobe Substance 3D Painter/resources/python/modules"]* under the default interpreter path in the *settings.json* file.
+1. First make sure that Perforce Helix Core and P4V are both installed on your PC, and that you have set up a workspace directory for Perforce.
+2. Download this GitHub repository as a ZIP-file under the Code tab and unzip it into a folder.
+3. You should now be able to run the tool either with the .exe-file or by going into main.py and running the file from an IDE environment like Visual Studio Code.
 
 
 
