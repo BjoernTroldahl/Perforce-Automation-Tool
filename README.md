@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/3ad0f9ad-acf1-45ff-abe0-50bffc687677
 
 1. First make sure that Perforce Helix Core and P4V are both installed on your PC, and that you have set up a workspace directory for Perforce.
 2. Download this GitHub repository as a ZIP-file under the Code tab and unzip it into a folder.
-3. You should now be able to run the tool either with the .exe-file or by going into main.py and running the file from an IDE environment like Visual Studio Code.
+3. You should now be able to run the tool either as a stand-alone tool with the .exe-file or by opening the main.py file in an IDE environment like Visual Studio Code and then running the script.
 
 
 
