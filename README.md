@@ -17,8 +17,8 @@ Documentation on how to use the tool can be read in the attached PDF.
 
 An .exe-file is also included for running the tool outside of an IDE environment.
 
-This project was made possible because of Viacheslav Makhynko and the knowledge-sharing from his Udemy course about Python automation in Perforce. I built the tool by following his course and, as of the date of writing this .README file, updated it to work with PySide6, the latest stable version of Python (3.13.1). 
-Furthermore, I've also enabled the Perforce tool to work with the latest version of Substance Painter (10.1.2), so that it can be used in tandem with the Substance Painter Custom Exporter Tool in my other repository.
+This project was made possible because of Viacheslav Makhynko and the knowledge-sharing from his Udemy course about Python automation in Perforce. I built the tool by following his course and, as of the date of writing this .README file, updated it to work with PySide6 and the latest stable version of Python (3.13.1). 
+Furthermore, I've also enabled the Perforce tool to work with the latest version of Substance Painter (10.1.2), so that it can be used in tandem with the Substance Painter Custom Exporter Tool from my other repository.
 
 https://github.com/user-attachments/assets/3ad0f9ad-acf1-45ff-abe0-50bffc687677
 
@@ -27,6 +27,7 @@ https://github.com/user-attachments/assets/3ad0f9ad-acf1-45ff-abe0-50bffc687677
 1. First make sure that Perforce Helix Core and P4V are both installed on your PC, and that you have set up a workspace directory for Perforce.
 2. Download this GitHub repository as a ZIP-file under the Code tab and unzip it into a folder.
 3. You should now be able to run the tool either as a stand-alone application with the .exe-file or by opening the main.py file in an IDE environment like Visual Studio Code and then running the script.
+4. Now enjoy simple and automated workflows using the tool!
 
 
 
