@@ -14,6 +14,7 @@ Ideal for teams with no prior experience using Perforce as part of their pipelin
 - Conflict resolution through either local or depot accept
 
 Documentation on how to use the tool can be read in the attached PDF.
+
 An .exe-file is also included for running the tool outside of an IDE environment.
 
 This project was made possible because of Viacheslav Makhynko and the knowledge-sharing from his Udemy course about Python automation in Perforce. I built the tool by following his course and, as of the date of writing this .README file, updated it to work with PySide6, the latest stable version of Python (3.13.1). 
